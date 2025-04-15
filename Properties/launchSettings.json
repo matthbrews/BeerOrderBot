@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SpPickups": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
